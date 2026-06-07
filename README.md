@@ -24,3 +24,19 @@ Explore both dashboards bellow. Each has their own README to give more context.
 * Drill-Through Functionality
 
 [**View Full Project 1 Details**](/Projeto%201/README.md)
+
+## Data Jobs Dashboard (V2 - Single Page Focus)
+
+![Dashboard V2](/images/Project2_Dashboard.png)
+
+**Key Power BI Skills Used:**
+
+* Dashboard Design & Layout
+* Power Query (ETL, Data Cleaning & Transformation)
+* Data Modeling & Relationships
+* Star Schema Design
+* DAX Fundamentals (Calculations & Aggregations)
+* Slicers, Measures & Parameters
+
+[**View Full Project 2 Details**](/Projeto%202/README.md)
+
